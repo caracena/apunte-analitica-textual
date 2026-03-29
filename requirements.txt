@@ -1,0 +1,11 @@
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.9
+seaborn>=0.13
+gensim>=4.3
+
+# Dependencias avanzadas opcionales para la semana 6:
+# transformers
+# datasets
+# torch
