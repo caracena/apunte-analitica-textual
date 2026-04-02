@@ -9,14 +9,14 @@ project:
   github: https://github.com/caracena/apunte-analitica-textual
   toc:
     - file: intro.md
-    - file: capitulos/01_introduccion_regex.ipynb
-    - file: capitulos/02_tfidf_vsm_similitud.ipynb
-    - file: capitulos/03_clustering.ipynb
-    - file: capitulos/04_clasificacion.ipynb
-    - file: capitulos/05_word_embeddings.ipynb
-    - file: capitulos/06_transformers_llms.ipynb
-    - file: capitulos/07_agentes_ia.ipynb
-    - file: capitulos/08_casos_de_uso.ipynb
+    - file: capitulos/clase1-introduccion-analitica-textual.ipynb
+    - file: capitulos/clase2-ingenieria-caracteristicas-vsm.ipynb
+    - file: capitulos/clase3-clustering-textos.ipynb
+    - file: capitulos/clase4-clasificacion-textos.ipynb
+    - file: capitulos/clase5-word-embeddings.ipynb
+    - file: capitulos/clase6-transformers-llms.ipynb
+    - file: capitulos/clase7-agentes-ia.ipynb
+    - file: capitulos/clase8-casos-de-uso.ipynb
 
 site:
   template: book-theme
