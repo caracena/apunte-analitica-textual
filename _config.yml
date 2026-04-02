@@ -1,0 +1,41 @@
+# Book settings
+title: Apunte de Analítica Textual
+author: Claudio Aracena
+logo: logo.jpg
+
+# Force re-execution of notebooks on each build
+execute:
+  execute_notebooks: off
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Add a bibtex file for citations
+bibtex_bibfiles:
+  - references.bib
+
+# Launch buttons
+launch_buttons:
+  binderhub_url: ""
+  colab_url: https://colab.research.google.com
+
+# Repository information
+repository:
+  url: https://github.com/caracena/apunte-analitica-textual
+  branch: main
+
+# Add GitHub buttons
+html:
+  use_issues_button: true
+  use_repository_button: true
+
+# Parsing extensions
+parse:
+  myst_enable_extensions:
+    - amsmath
+
+sphinx:
+  config:
+    html_show_copyright: false

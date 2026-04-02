@@ -1,0 +1,12 @@
+# Table of contents
+format: jb-book
+root: intro
+chapters:
+- file: clase1-introduccion-analitica-textual
+- file: clase2-ingenieria-caracteristicas-vsm
+- file: clase3-clustering-textos
+- file: clase4-clasificacion-textos
+- file: clase5-word-embeddings
+- file: clase6-transformers-llms
+- file: clase7-agentes-ia
+- file: clase8-casos-de-uso

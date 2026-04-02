@@ -1,0 +1,13 @@
+jupyter-book
+matplotlib
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+gensim
+transformers
+torch
+regex
+wordcloud
+seaborn
