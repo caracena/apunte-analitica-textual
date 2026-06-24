@@ -16,6 +16,7 @@ project:
     - file: capitulos/clase5-word-embeddings.ipynb
     - file: capitulos/clase6-transformers-llms.ipynb
     - file: capitulos/clase7-agentes-ia.ipynb
+    - file: capitulos/clase7-agentes-ia-ollama.ipynb
     - file: capitulos/clase8-casos-de-uso.ipynb
 
 site:
